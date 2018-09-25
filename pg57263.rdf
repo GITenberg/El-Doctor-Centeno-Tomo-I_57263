@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/57263">
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3821">
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Benito_Pérez_Galdós"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1920</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1843</pgterms:birthdate>
+        <pgterms:name>Pérez Galdós, Benito</pgterms:name>
+        <pgterms:alias>Galdós, Benito Pérez</pgterms:alias>
+        <pgterms:alias>Perez Galdos, Benito</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/57263.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221310</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:10.857752</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1b4ef351bdfa4ea6ab00d99c93de9542">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/57263/57263-0.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136825</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9997f7b65cbd4b2fad76e7097ce2d7f0">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3f1e7ac7fe3a4e519fcf8a8af6c14601">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:13:36</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/57263.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:11.292726</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215757</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne3ea71ff5ee2402293b94ce4c4fb2840">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-06-03</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/57263.rdf">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:46:49.087919</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11630</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N28f0b5ecbaec4b86b10114f5645a73fc">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/57263.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8e089d39eed14c9caed857eb2807b71a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755525</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:14.450659</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Na06aa7ef714247b882fa7a6d18f868d5">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/57263/57263-h/57263-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:13:36</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc97568c3a69e406cbf7ef8aa21dca369">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366155</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>El Doctor Centeno (Tomo I)</dcterms:title>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N9b453b77847f44bc911acb4647a4dbef">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">es</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/57263/pg57263.cover.medium.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:14.503658</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10034</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N066156234825452cadd10c1597b4fac3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/57263/pg57263.cover.small.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:14.481657</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2507</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne80e41bba8334a57965065dcd64e7ade">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/57263/57263-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N14528f5baece4c5cb767a0d8bda96e45">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163870</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:13:36</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N07b098bf490a441a98617f065f5a8c61">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/57263.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:40:12.869687</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc90581ef8a2247e3be6f8ad230f00c26">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766138</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/57263/57263-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335047</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/57263"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-03T11:13:34</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd12f8d1342c0451695478d2ebdb44ec9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Benito_Pérez_Galdós">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
